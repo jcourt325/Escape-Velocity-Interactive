@@ -1,4 +1,4 @@
-# Escape-Velocity-Interactive-Test
+# Escape-Velocity-Interactive
 
 This is just a test. You can ignore it.
 
